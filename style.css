@@ -1,4 +1,35 @@
 <<<<<<< HEAD
+#MainMenuTitle{
+Text-align:center;
+font-family:fantasy;
+}
+
+#YTTabs{
+Text-align:center;
+text-decoration:none;
+font-size:50px;
+display:inline;
+list-style-type:none;
+
+}
+
+body{
+
+    background-image:url(indexBackGround.jpg);
+    background-repeat:no-repeat;
+    background-size:cover;
+
+}
+
+@media all and (max-width: 960px){  /* This allows for the mobile and window dynamic size changer (called a media query)*/
+  body{
+    background-color: yellow;
+  }
+
+
+
+=======
+<<<<<<< HEAD
 .video{
   background-color: white;
   margin: 10px;
@@ -18,4 +49,5 @@
   display:block;
   margin:0 auto;
 >>>>>>> d571906db2cb31d5a8ebd73c0c0b8efeca580f1f
+>>>>>>> 56e16c01b8ae26b90ca3b527e6cb0ceb29c4b404
 }
