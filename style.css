@@ -15,8 +15,8 @@ text-decoration:none;
 font-size:50px;
 display:inline;
 list-style-type:none;
-
 }
+
 
 .video{
   background-color: white;
@@ -30,7 +30,7 @@ list-style-type:none;
 .head{
   font-style: oblique;
   height: 30px;
-
+}
 
 .tg-container{
   width:1140px;
@@ -38,8 +38,8 @@ list-style-type:none;
   margin:0 auto;
 }
 
-
 @media all and (max-width: 960px){  /* This allows for the mobile and window dynamic size changer (called a media query)*/
   body{
     background-color: yellow;
   }
+}
