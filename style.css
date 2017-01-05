@@ -1,0 +1,13 @@
+.video{
+  background-color: white;
+  margin: 10px;
+  float: left;
+  height: 315px;
+  width: 516px;
+  padding: 0 5px;
+}
+
+.head{
+  font-style: oblique;
+  height: 30px;
+}
