@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #MainMenuTitle{
 Text-align:center;
 font-family:fantasy;
@@ -27,4 +28,26 @@ body{
 
 
 
+=======
+<<<<<<< HEAD
+.video{
+  background-color: white;
+  margin: 10px;
+  float: left;
+  height: 315px;
+  width: 516px;
+  padding: 0 5px;
+}
+
+.head{
+  font-style: oblique;
+  height: 30px;
+=======
+
+.tg-container{
+  width:1140px;
+  display:block;
+  margin:0 auto;
+>>>>>>> d571906db2cb31d5a8ebd73c0c0b8efeca580f1f
+>>>>>>> 56e16c01b8ae26b90ca3b527e6cb0ceb29c4b404
 }
