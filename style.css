@@ -1,0 +1,30 @@
+#MainMenuTitle{
+Text-align:center;
+font-family:fantasy;
+}
+
+#YTTabs{
+Text-align:center;
+text-decoration:none;
+font-size:50px;
+display:inline;
+list-style-type:none;
+
+}
+
+body{
+
+    background-image:url(indexBackGround.jpg);
+    background-repeat:no-repeat;
+    background-size:cover;
+
+}
+
+@media all and (max-width: 960px){  /* This allows for the mobile and window dynamic size changer (called a media query)*/
+  body{
+    background-color: yellow;
+  }
+
+
+
+}
