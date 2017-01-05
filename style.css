@@ -13,6 +13,12 @@ list-style-type:none;
 
 }
 
+li,a,ul{
+display:inline;
+float:right;
+  padding: 0 25px;
+
+}
 body{
 
     background-image:url(indexBackGround.jpg);
